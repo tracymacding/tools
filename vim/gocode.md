@@ -1,14 +1,14 @@
-1. What's gocode
-An autocompletion daemon for the Go programming language.Gocode is a helper tool which is intended to be integrated with your source code editor, like vim and emacs. It provides several advanced capabilities, which currently includes:
+1. **What's gocode**
+    - An autocompletion daemon for the Go programming language.Gocode is a helper tool which is intended to be integrated with your source code editor, like vim and emacs. It provides several advanced capabilities, which currently includes:
 
-2. How it works
+2. **How it works**
     - It is called *daemon*, because it uses client/server architecture for caching purposes. In particular, it makes autocompletions very fast. Typical autocompletion time with warm cache is 30ms, which is barely noticeable.
 
-3. It works like ?
+3. **It works like**
     - You can watch the [demo screencast](http://nosmileface.ru/images/gocode-demo.swf).
     - ![Gocode in vim](http://nosmileface.ru/images/gocode-screenshot.png)
 
-4. Setup
+4. **Setup**
 
 - Intall go and set GOPATH & GOROOT, for example, my typcial seeting
     - GOPATH: /styx/home/hzdingkai2013/workspace/go_project

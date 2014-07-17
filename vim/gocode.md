@@ -26,7 +26,7 @@
         - filetype plugin on
         - filetype plugin indent on
         - set ofu=syntaxcomplete#Complete
-        - imap <silent> ` <C-X><C-O>
+        - imap <silent>`<C-X><C-O>
 
 5. **Reference**
   - You can get more detailed info from below URL:
